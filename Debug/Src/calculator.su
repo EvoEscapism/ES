@@ -1,0 +1,9 @@
+../Src/calculator.c:139:13:calculator_compute_result	0	static
+../Src/calculator.c:47:13:calculator_update_leds	8	static
+../Src/calculator.c:31:17:calculator_get_state	0	static
+../Src/calculator.c:42:6:calculator_clear_input_buffer	0	static
+../Src/calculator.c:59:6:calculator_write_info_message	8	static
+../Src/calculator.c:84:6:calculator_update_display	80	static
+../Src/calculator.c:302:6:calculator_reset	8	static
+../Src/calculator.c:36:6:calculator_init	8	static
+../Src/calculator.c:206:6:calculator_process_key	8	static

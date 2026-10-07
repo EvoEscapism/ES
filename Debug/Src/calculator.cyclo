@@ -1,0 +1,9 @@
+../Src/calculator.c:139:13:calculator_compute_result	24
+../Src/calculator.c:47:13:calculator_update_leds	2
+../Src/calculator.c:31:17:calculator_get_state	1
+../Src/calculator.c:42:6:calculator_clear_input_buffer	1
+../Src/calculator.c:59:6:calculator_write_info_message	6
+../Src/calculator.c:84:6:calculator_update_display	8
+../Src/calculator.c:302:6:calculator_reset	1
+../Src/calculator.c:36:6:calculator_init	1
+../Src/calculator.c:206:6:calculator_process_key	18
